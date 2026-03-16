@@ -17,14 +17,14 @@
 * 1000,00 no mes em 20 anos 721 mil 
 * 1000,00 no mes em 30 anos 2.200 milhão
 
-- O que é um carteira de investimentos
+*O que é um carteira de investimentos*
 
 * É o conjunto de todas os seus investimentos
 * Tem diversificação
 * Voce precisa ter uma estrategia para investir seu dinheiro
 * Gera renda passiva
 
-- inteligencia financeira e investimentos proporcionam
+*inteligencia financeira e investimentos proporcionam*
 
 * ter mais tempo pra voce
 * tempo pra viajar 
@@ -33,7 +33,7 @@
 
 - O spread bancário é a diferença entre a taxa de juros que os bancos cobram ao emprestar dinheiro (crédito) e a taxa que pagam ao captar recursos (como em CDBs). 
 
-- Investidor independente
+*Investidor independente*
 
 * Saber tomar todas suas decisões financeiras
 * Investe sem o auxilio do gerente ou do banco
