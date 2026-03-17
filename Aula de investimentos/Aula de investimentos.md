@@ -70,12 +70,24 @@ pontos a analizar :
 -Nubank
 -Banco Sofisa
 -Rico
--Agora investimentos
+-Ágora investimentos
 
-*Reserva de emergencia*
+*Reserva de emergência*
 sempre ter uma reserva 'colchão' para voce investir, ter uns 4 meses de salário ou mais, voce vai delimitar esse tempo com o dinheiro que voce vai investir.
 
+* Tripé dos investimentos
+-rentabilidade
+-segurança
+-liquidez
+
+* Para reserva de emergência
+-reda fixa
+-com segurança
+-liquidez diária
+
+*Ações que servem para o 'Colchão'*
 1 - tesouro selic
-2 - CDB com liquides diária 
-3 - contas remuneras* mais cuidado bancos menores é perigoso mais pode investir.
-4 - Poupança** é um investimento mais é um dos piores em rentabilidade.
+2 - CDB com liquides diária
+3 - porquinho, caixinha, cofrinho, metas
+4 - contas remuneras* mais cuidado bancos menores é perigoso mais pode investir.
+5 - Poupança** é um investimento mais é um dos piores em rentabilidade.
