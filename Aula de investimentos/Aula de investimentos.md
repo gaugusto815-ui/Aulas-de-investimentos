@@ -45,3 +45,37 @@
 * Usa do dinheiro para os investimentos para ter mais tempo livre 
 * Foca na qualidade de vida 
 
+*Segredo para ser um bom investidor*
+
+- Mental
+- Emocional
+- Espiritual
+- Físico
+
+sempre ter o controle sobre esses mundos, tudo que acontece na sua vida física tem reflexo de algum outro mundo...
+sempre ter controle mental, emocional e espiritual.
+Mentalidade nos investimentos 
+
+*Melhores corretoras de investimentos*
+pontos a analizar :
+1 - registro na cvm
+2 - taxa de corretagem
+3 - suporte ao cliente
+4 - ofertas de produtos de renda fixa
+5 - intuitividade na plataforma 
+
+-BTG Pactual
+-C6bank
+-Inter
+-Nubank
+-Banco Sofisa
+-Rico
+-Agora investimentos
+
+*Reserva de emergencia*
+sempre ter uma reserva 'colchão' para voce investir, ter uns 4 meses de salário ou mais, voce vai delimitar esse tempo com o dinheiro que voce vai investir.
+
+1 - tesouro selic
+2 - CDB com liquides diária 
+3 - contas remuneras* mais cuidado bancos menores é perigoso mais pode investir.
+4 - Poupança** é um investimento mais é um dos piores em rentabilidade.
