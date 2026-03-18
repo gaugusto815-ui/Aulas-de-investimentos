@@ -40,3 +40,17 @@ tesouro IPCA ao longo praso
 4 - Diversificação é a melhor proteção
 5 - Longo prazo 
 
+*Ativos a investir*
+
+- No brasil
+tesouro direto
+ações 
+fundos imobiliários
+
+- Fora do pais
+stocks
+reits
+etfs
+
+- Global
+criptomoedas
